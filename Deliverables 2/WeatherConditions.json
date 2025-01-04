@@ -1,0 +1,21 @@
+[
+    {
+      "RegionID": {"S": "region_001"},
+      "Timeline": {"S": "01-Jan-2025 1:00 AM"},
+      "Condition": {"S": "Clear"},
+      "Humidity": {"N": "55"},
+      "Pressure": {"N": "1008"},
+      "Temperature": {"N": "15"},
+      "WindVelocity": {"N": "10"}
+    },
+    {
+      "RegionID": {"S": "region_002"},
+      "Timeline": {"S": "01-Jan-2025 1:00 AM"},
+      "Condition": {"S": "Cloudy"},
+      "Humidity": {"N": "88"},
+      "Pressure": {"N": "1010"},
+      "Temperature": {"N": "19"},
+      "WindVelocity": {"N": "35"}
+    }
+  ]
+  
