@@ -1,0 +1,8 @@
+"RegionID","Timeline","Condition","Humidity","Pressure","Temperature","WindVelocity"
+"region_002","01-Jan-2025 2:00 AM","Rainy","89","1010","18","38"
+"region_001","01-Jan-2025 2:00 AM","Clear","53","1008","16","5"
+"region_005","01-Jan-2025 1:00 AM","Storm","56","1017","12","75"
+"region_004","01-Jan-2025 1:00 AM","Clear","20","1012","25","3"
+"region_003","01-Jan-2025 1:00 AM","Rainy","65","1002","5","50"
+"region_002","01-Jan-2025 1:00 AM","Cloudy","88","1010","19","35"
+"region_001","01-Jan-2025 1:00 AM","Clear","55","1008","15","10"
